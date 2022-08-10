@@ -1,5 +1,4 @@
 import Fighter, { SimpleFighter } from '../Fighter';
-// import Monster from '../Monster';
 import Battle from './Battle';
 
 class PVE extends Battle {
