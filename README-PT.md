@@ -8,13 +8,9 @@ Foram usados muitos aspectos de POO, como classes abstratas, métodos estáticos
 
 A organização do código e das pastas e arquivos seguem os princípios SOLID.
 
-<hr></hr>
-
 ## 🛠 Ferramentas / Habilidades
 
 TypeScript, POO, SOLID.
-
-<hr></hr>
 
 ## Utilização
 

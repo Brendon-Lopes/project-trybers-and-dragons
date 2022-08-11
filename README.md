@@ -8,13 +8,9 @@ It uses many aspects of OOP, like abstract classes, static methods, getters and 
 
 The code and organization of folders and files follows the principles of SOLID.
 
-<hr></hr>
-
 ## 🛠 Tools / skills
 
 TypeScript, OOP, SOLID.
-
-<hr></hr>
 
 ## Usage
 
