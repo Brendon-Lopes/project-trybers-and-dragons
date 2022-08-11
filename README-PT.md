@@ -2,7 +2,7 @@
 
 # Projeto Trybers and Dragons
 
-Um projeto feito para praticar POO (Programação Orientada a Objetos) em um formato de jogo, com classes e interfaces para Arquétipos, Raças, Batalhas e etc.
+Um projeto feito para praticar POO (Programação Orientada a Objetos) em um formato de jogo RPG, com classes e interfaces para Arquétipos, Raças, Batalhas e etc.
 
 Foram usados muitos aspectos de POO, como classes abstratas, métodos estáticos, getters e setters, herança, implementações e mais.
 

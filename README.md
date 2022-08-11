@@ -2,7 +2,7 @@
 
 # Project Trybers and Dragons
 
-A project made to practice OOP (Object Oriented Programming) in a game format, with classes and interfaces for Archetypes, Races, Battle, etc.
+A project made to practice OOP (Object Oriented Programming) in a RPG game format, with classes and interfaces for Archetypes, Races, Battle, etc.
 
 It uses many aspects of OOP, like abstract classes, static methods, getters and setters, inheritance, implementations and more.
 
